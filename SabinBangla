@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title> Jago Bangali Jago </title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<link href="http://fonts.googleapis.com /css? family= Montserrat:400, 700%7CPT+Serif=400, 700, 400italic' rel=' stylesheet ">
+
+<link href="https://fonts.googleapis.com /css? family= Montserrat |Open+Sans" rel=" stylesheet ">
+
+</head>
+
+<body>
+
+<div class="logo">
+
+          <img src="photo.png">
+
+          </div>
+
+<div class="bgimage">
+
+      <div class="menu">
+
+          <div class="leftmenu">
+
+         
+
+</div>
+
+  
+
+<div class="rightmenu">
+
+    <ul>
+
+       <li>Home</li>
+
+        <li>Service</li>
+
+       <li>Works</li>
+
+       <li>Blogh</li>
+
+       <li>Contact</li>
+
+       <li>Aboust us</li>
+
+    </ul>
+
+ </div>
+
+</div>
+
+<div class="text">
+
+    <h4>Proprietor : Nirmol CM</h4>
+
+    <h1> Jago Bangali Jago </h1>
+
+    <h2> Here all works of art are done </h2>
+
+     <button id="button1">Lick</button>
+
+     <button id="button2">Comment</button>
+
+     <button id="button3">Share </button>
+
+     <button id="button4">Subscribe</button>
+
+</div>
+
+<div class="link">
+
+<center>
+
+<a href="https://www.youtube.com/channel/UCGTOqNwOLJTHBntUAUFsQKg"> go to my youtube</a>
+
+</center>
+
+</div>       
+
+</div>
+
+</body>
+
+</html>
+
